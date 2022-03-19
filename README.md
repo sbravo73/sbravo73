@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sbravo73
+- 👋 Hi, I’m Sebastian
 - I’m interested in Statistics, Machine Learning and Optimization
 - I’m currently learning Statistics and Web Development
 
